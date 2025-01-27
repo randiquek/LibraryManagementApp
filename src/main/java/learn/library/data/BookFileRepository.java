@@ -38,7 +38,7 @@ public class BookFileRepository implements BookRepository {
 
     }
 
-    private void saveAll() {
+    private void saveAll() throws DataAccessException {
 
     }
 }
