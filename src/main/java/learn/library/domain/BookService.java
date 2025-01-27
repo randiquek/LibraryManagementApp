@@ -17,20 +17,20 @@ public class BookService {
 //    public List<Book> findAll() throws DataAccessException {
 //        return repository.findAll();
 //    }
-
-    private boolean validate(Book) {
-
-    }
-
-    public Book update(Book) {
-
-    }
-
-    public boolean isValidCategory() {
-
-    }
-
-    public boolean isAvailable() {
-
-    }
+//
+//    private boolean validate(Book) {
+//
+//    }
+//
+//    public Book update(Book) {
+//
+//    }
+//
+//    public boolean isValidCategory() {
+//
+//    }
+//
+//    public boolean isAvailable() {
+//
+//    }
 }
